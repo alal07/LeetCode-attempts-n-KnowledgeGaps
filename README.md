@@ -48,7 +48,7 @@ public:
 
 
 Qs faced and googled: 
-- [ ] create a vector of size n in c++.  .. https://www.geeksforgeeks.org/initialize-a-vector-in-cpp-different-ways/
+- [X] create a vector of size n in c++.  .. https://www.geeksforgeeks.org/initialize-a-vector-in-cpp-different-ways/
 - [ ] how to sort vector in c++ in descending order. ... https://www.geeksforgeeks.org/how-to-sort-a-vector-in-descending-order-using-stl-in-c/
 - [ ] create a copy of a vector c++. ... https://www.geeksforgeeks.org/ways-copy-vector-c/      https://www.techiedelight.com/copy-vector-cpp/
 - [ ] What data types are allowed as key of a unorderred_map, map?
